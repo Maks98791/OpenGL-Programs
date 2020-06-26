@@ -1,0 +1,7 @@
+﻿  GK_lab1.cpp
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab1\GK_lab1\GK_lab1.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab1\GK_lab1\GK_lab1.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab1\GK_lab1\GK_lab1.cpp(35,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab1\GK_lab1\GK_lab1.cpp(71,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab1\GK_lab1\GK_lab1.cpp(161,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GK_lab1.vcxproj -> E:\Code\C++\Grafika komputerowa OpenGL\GK_lab1\Debug\GK_lab1.exe

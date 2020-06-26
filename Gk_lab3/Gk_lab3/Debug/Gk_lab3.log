@@ -1,0 +1,7 @@
+﻿  Gk_lab3.cpp
+E:\Code\C++\Grafika komputerowa OpenGL\Gk_lab3\Gk_lab3\Gk_lab3.cpp(132,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\Gk_lab3\Gk_lab3\Gk_lab3.cpp(132,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\Gk_lab3\Gk_lab3\Gk_lab3.cpp(132,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\Gk_lab3\Gk_lab3\Gk_lab3.cpp(157,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\Gk_lab3\Gk_lab3\Gk_lab3.cpp(184,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Gk_lab3.vcxproj -> E:\Code\C++\Grafika komputerowa OpenGL\Gk_lab3\Debug\Gk_lab3.exe

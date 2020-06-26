@@ -1,0 +1,10 @@
+﻿  Źródło.cpp
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab2\GK_lab2\Źródło.cpp(75,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab2\GK_lab2\Źródło.cpp(76,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xtgmath.h(22,101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab2\GK_lab2\Źródło.cpp(82,101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab2\GK_lab2\Źródło.cpp(68,14): warning C4101: 'z': unreferenced local variable
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab2\GK_lab2\Źródło.cpp(68,11): warning C4101: 'y': unreferenced local variable
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab2\GK_lab2\Źródło.cpp(68,8): warning C4101: 'x': unreferenced local variable
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab2\GK_lab2\Źródło.cpp(195,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GK_lab2.vcxproj -> E:\Code\C++\Grafika komputerowa OpenGL\GK_lab2\Debug\GK_lab2.exe

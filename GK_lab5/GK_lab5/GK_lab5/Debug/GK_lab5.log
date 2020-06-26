@@ -1,0 +1,10 @@
+﻿  GK_lab5.cpp
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\GK_lab5\GK_lab5.cpp(200,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\GK_lab5\GK_lab5.cpp(200,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\GK_lab5\GK_lab5.cpp(200,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\GK_lab5\GK_lab5.cpp(266,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\GK_lab5\GK_lab5.cpp(274,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\GK_lab5\GK_lab5.cpp(276,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\GK_lab5\GK_lab5.cpp(298,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\GK_lab5\GK_lab5.cpp(325,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GK_lab5.vcxproj -> E:\Code\C++\Grafika komputerowa OpenGL\GK_lab5\GK_lab5\Debug\GK_lab5.exe

@@ -1,0 +1,10 @@
+﻿  GK_lab4.cpp
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\GK_lab4\GK_lab4.cpp(128,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\GK_lab4\GK_lab4.cpp(128,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\GK_lab4\GK_lab4.cpp(128,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\GK_lab4\GK_lab4.cpp(165,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\GK_lab4\GK_lab4.cpp(193,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\GK_lab4\GK_lab4.cpp(197,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\GK_lab4\GK_lab4.cpp(237,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\GK_lab4\GK_lab4.cpp(264,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GK_lab4.vcxproj -> E:\Code\C++\Grafika komputerowa OpenGL\GK_lab4\Debug\GK_lab4.exe
