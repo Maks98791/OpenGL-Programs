@@ -1,4 +1,4 @@
-# OpenGL-programs
+# OpenGL-Programs
 Graphic programs using OpenGL library for learning purposes.
 
 ## GK_lab1
